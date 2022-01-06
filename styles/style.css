@@ -1,0 +1,39 @@
+.title {
+    font-size: 2em;
+    text-align: center;
+    color: grey;
+    margin: 0px;
+    padding: 10px;
+
+}
+.center_img {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    height: 330px;
+    border-radius: 10px;
+}
+.list_item {
+    padding: 0.5em;
+    border-bottom: 1px solid #ccc;
+}
+.title_dev {
+    font-size: 2em;
+    text-align: center;
+    color: grey;
+    margin: 0px;
+    padding: 5px;
+}
+
+body {
+    background-color: rgb(204, 228, 243);
+}
+
+ul {
+    list-style: none;
+}
+
+.contacts_link {
+
+    text-decoration: none;
+}
