@@ -13,10 +13,7 @@
     height: 330px;
     border-radius: 10px;
 }
-.list_item {
-    padding: 0.5em;
-    border-bottom: 1px solid #ccc;
-}
+
 .title_dev {
     font-size: 2em;
     text-align: center;
@@ -36,4 +33,24 @@ ul {
 .contacts_link {
 
     text-decoration: none;
+}
+
+.education_list {
+    padding: 0.5em;
+    border-bottom: 1px solid #ccc;
+}
+
+.experience_list {
+    padding: 0.5em;
+    border-bottom: 1px solid #ccc;
+}
+
+.skills_list {
+    padding: 0.5em;
+    border-bottom: 1px solid #ccc;
+}
+
+.contacts_list {
+    padding: 0.5em;
+    border-bottom: 1px solid #ccc;
 }
